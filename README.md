@@ -23,6 +23,6 @@ We are working on a new game mode involving a customized level editor where user
 #### Help the monsters reach the color they belong to!
 
 [Play Now](https://www.pausanchezv.com/galactic-monsters)
-[Download from Google Play](https://play.google.com/store/apps/details?id=com.pausanchezv.puzzle)
+or [Download from Google Play](https://play.google.com/store/apps/details?id=com.pausanchezv.puzzle)
 
 Android puzzle game - Pau Sanchez
