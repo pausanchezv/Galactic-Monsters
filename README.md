@@ -4,6 +4,8 @@
 
 Do you like color puzzles? Or looking for a groundbreaking puzzle game? Then you MUST try this game!
 
+![GalacticMonsters](https://www.pausanchezv.com/assets/galactic-monsters/img/bg-share-small.png)
+
 ## HOW IT WORKS
 Galactic monsters is a revolutionary color puzzle game which implies dragging the monsters to their right color square or creating color clusters, depending on the game mode you choose.
 
