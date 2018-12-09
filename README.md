@@ -20,6 +20,6 @@ This simple but breathtaking game will make you feel the thrill of testing your 
 WHAT ABOUT UPDATES?
 We are working on a new game mode involving a customized level editor where users will be able to create their levels and dare other players to overcome them! At the same time, the game’s website version is being built in order to play directly from the web! Does not that sound good?
 
-# Help the monsters reach the color they belong to!
+#### Help the monsters reach the color they belong to!
 
 Android puzzle game - Pau Sanchez
